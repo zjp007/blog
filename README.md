@@ -1,0 +1,2 @@
+# blog
+vitpress blog
